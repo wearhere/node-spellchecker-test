@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jeff Wear <jeff@mixmax.com> (https://mixmax.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "spellchecker": "^3.2.1"
+  }
 }
